@@ -1,0 +1,14 @@
+Customer Name: Rahul
+Customer Email: rahul@mail.com
+Customer Phone: 23
+Customer Address: Gujarat
+
+Products:
+- KNIFE (10.0 x 22 = 220.0)
+- PENCIL (2.0 x 4 = 8.0)
+
+Quantities:
+- 22
+- 4
+
+Total Cost: 444
